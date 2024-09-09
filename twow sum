@@ -1,0 +1,20 @@
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        Map<Integer,Integer> hashMap = new HashMap<>();
+        int n = nums.length;
+
+        for (int i= 0 ; i< n ; i++){
+            int compliment = target - nums[i];
+            if(hashMap.containsKey(compliment)){
+                return new int[]{hashMap.get(compliment), i};            }
+            hashMap.put(nums[i], i);
+        }
+        return new int[]{};
+    }
+}
+
+Way to solve---- I use hash map to solve this in this I create a hashmap withbvalue aand index the simplily traverse through the array. 
+In this I substract the target vaule from all the array values and then I store the value and there index in the hashmap and then traverse through the array,
+if we find the value after substracting and that value is already present in the hasp map then we pass there index.
+
+things i learned (HashMap, containsKey, put, get, complient).
