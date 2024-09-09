@@ -34,3 +34,9 @@
 	<li><code>-100 &lt;= Node.val &lt;= 100</code></li>
 	<li>Both <code>list1</code> and <code>list2</code> are sorted in <strong>non-decreasing</strong> order.</li>
 </ul>
+
+
+<p>Way to solve----in this problem we have to merge the two sorted list , so to merge we create a temp list where we store the final list and then we check that if both the lists are null or not if not then we check the list1.value with list2.value if list1.value is greater then we put the list2.value in the temp list and the move to the next value of the list2. we create the curr value which indicates the curr value to be store in the temp list, the value which is smaller that value is curr value and then we move to that list's next value. and is list1 is null and list2 have elements then we directly put the value to the temp list bcoz the list is sorted.
+</p>
+
+<p>what is learn--- to make a listnode   (ListNode temp = new ListNode(); to create a list with temp.)</p>
