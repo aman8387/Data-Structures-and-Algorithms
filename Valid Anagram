@@ -1,0 +1,20 @@
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        char[] sChars = s.toCharArray();
+        char[] tChars = t.toCharArray();
+
+        Arrays.sort(sChars);
+        Arrays.sort(tChars);
+
+        return Arrays.equals(sChars, tChars);
+    }
+}
+
+
+Way to solve---In this I have two strings and we have to check that these strings are anagram or not. 
+So anagram means that both the two strings are match with with other to solve this I use sorting method I can do this with hashmap but in sorting,
+firstly I convet the string into the charcter array then sort that array with alphabetical order and 
+after sorting we check that these arrays are equal or not if not then false.
+
+
+Learned in this --- (toCharArray, Arrays.sort,Array.equals).
