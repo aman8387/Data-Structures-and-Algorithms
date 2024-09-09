@@ -21,3 +21,12 @@ class Solution {
     }
 }
                                                                             
+Way to solve --- In this question we have to check that the string has valid parenthesis or not.
+In this firstly we push opening parenthesis to the stack and the after sending this onto stack we check for the closing parenthesis 
+in this if we direct encounter with the closing parenthesis then then we check for the stack if the stack is empty then we directly 
+return false otherwise we check for the string elements then if the got the closing parenthesis from the stack and check with the top element
+if they doesn't match then we return false or if they match then we directly pop that element from the stack and go further. 
+and in last we check that if we have closing parenthesis and the stack is empty then we return false or if not then simply return true.
+
+things i learned---(stack<character>, stack.push/pop, stack.peek, top).
+
