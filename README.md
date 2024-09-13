@@ -12,4 +12,16 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
