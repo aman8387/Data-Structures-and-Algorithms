@@ -15,6 +15,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
@@ -41,9 +42,14 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
