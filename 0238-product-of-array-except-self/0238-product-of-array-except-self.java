@@ -9,8 +9,6 @@ class Solution {
             res[i] = ProductofAllBefore;
             ProductofAllBefore *= nums[i];
         } 
-        System.out.println(Arrays.toString(nums));
-        System.out.println(Arrays.toString(res));
         for ( int i =n-1; i>=0; i--){
             res[i] *= ProductofAllAfter;
             ProductofAllAfter *= nums[i];
