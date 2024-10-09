@@ -15,6 +15,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0053-maximum-subarray](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -56,6 +57,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 ## Prefix Sum
 |  |
@@ -65,4 +67,8 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
