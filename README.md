@@ -17,6 +17,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -71,4 +72,8 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
