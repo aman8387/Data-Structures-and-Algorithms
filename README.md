@@ -68,6 +68,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
+| [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -76,4 +77,8 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
