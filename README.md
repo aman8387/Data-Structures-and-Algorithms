@@ -23,6 +23,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 ## Matrix
 |  |
@@ -41,6 +42,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -70,6 +73,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Greedy
 |  |
@@ -79,8 +83,10 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
