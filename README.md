@@ -106,4 +106,20 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
