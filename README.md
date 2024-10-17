@@ -109,17 +109,21 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
