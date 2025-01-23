@@ -104,6 +104,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
@@ -139,4 +140,8 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0278-first-bad-version) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
