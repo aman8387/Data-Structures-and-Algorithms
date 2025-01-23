@@ -120,24 +120,28 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 ## Interactive
 |  |
