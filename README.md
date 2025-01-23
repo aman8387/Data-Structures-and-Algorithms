@@ -93,6 +93,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 ## Math
 |  |
@@ -134,4 +135,8 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0100-same-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
