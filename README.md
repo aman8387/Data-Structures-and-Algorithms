@@ -8,10 +8,12 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 ## Array
 |  |
 | ------- |
