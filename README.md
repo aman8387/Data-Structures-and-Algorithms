@@ -26,6 +26,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 ## Matrix
 |  |
@@ -92,6 +93,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 ## Math
 |  |
 | ------- |
