@@ -24,6 +24,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
@@ -71,6 +72,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
+| [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 ## Prefix Sum
 |  |
@@ -98,6 +100,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## String
