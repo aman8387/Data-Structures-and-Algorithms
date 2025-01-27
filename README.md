@@ -33,6 +33,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
@@ -72,6 +73,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 ## Counting
 |  |
 | ------- |
@@ -86,6 +88,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Prefix Sum
 |  |
