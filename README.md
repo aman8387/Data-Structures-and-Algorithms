@@ -23,6 +23,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0027-remove-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0136-single-number) |
@@ -76,6 +77,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
@@ -92,6 +94,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0015-3sum](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
