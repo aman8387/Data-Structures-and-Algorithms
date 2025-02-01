@@ -102,6 +102,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0088-merge-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
@@ -141,12 +142,14 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
