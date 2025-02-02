@@ -107,6 +107,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
+| [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +200,5 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
+| [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
