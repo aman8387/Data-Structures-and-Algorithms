@@ -118,6 +118,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,6 +137,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +168,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
