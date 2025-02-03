@@ -112,6 +112,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
@@ -138,6 +139,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -168,6 +170,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
