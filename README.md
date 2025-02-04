@@ -35,6 +35,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
@@ -110,6 +111,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
@@ -170,6 +172,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
