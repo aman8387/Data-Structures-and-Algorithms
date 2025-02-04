@@ -39,6 +39,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0898-transpose-matrix](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -114,6 +115,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
+| [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
@@ -141,6 +143,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0011-container-with-most-water](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
+| [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -173,6 +176,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
+| [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
