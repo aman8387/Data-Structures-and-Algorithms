@@ -129,6 +129,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3195-separate-black-and-white-balls](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -150,6 +151,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -189,6 +191,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3195-separate-black-and-white-balls](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
