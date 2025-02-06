@@ -108,6 +108,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
@@ -174,6 +175,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0344-reverse-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
