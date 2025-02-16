@@ -71,6 +71,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -93,6 +94,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +194,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -202,6 +205,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
