@@ -40,6 +40,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0941-sort-array-by-parity](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
+| [1923-sentence-similarity-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -121,6 +122,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -189,6 +191,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
+| [1923-sentence-similarity-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2816-lexicographically-smallest-palindrome) |
