@@ -73,6 +73,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
@@ -151,6 +152,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Greedy
 |  |
 | ------- |
@@ -195,6 +197,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0696-count-binary-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -254,4 +257,12 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0020-valid-parentheses](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0020-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
