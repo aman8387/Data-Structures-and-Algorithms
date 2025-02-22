@@ -71,6 +71,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -115,6 +116,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0443-string-compression](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
@@ -187,6 +189,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0443-string-compression](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0443-string-compression) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0696-count-binary-substrings) |
@@ -208,6 +211,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
