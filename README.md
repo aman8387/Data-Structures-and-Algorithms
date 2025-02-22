@@ -33,6 +33,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0238-product-of-array-except-self](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
+| [0643-maximum-average-subarray-i](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
@@ -216,6 +217,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Tree
