@@ -198,6 +198,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0841-shortest-distance-to-a-character](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0841-shortest-distance-to-a-character) |
 | [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-largest-merge-of-two-strings](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1894-merge-strings-alternately) |
@@ -215,6 +216,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0567-permutation-in-string) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
