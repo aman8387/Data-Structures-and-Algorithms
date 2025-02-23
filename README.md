@@ -43,6 +43,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0979-di-string-match](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1923-sentence-similarity-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1923-sentence-similarity-iii) |
+| [2211-k-radius-subarray-averages](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2211-k-radius-subarray-averages) |
 | [2228-watering-plants-ii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2228-watering-plants-ii) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -222,6 +223,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2211-k-radius-subarray-averages](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2211-k-radius-subarray-averages) |
 ## Tree
 |  |
 | ------- |
