@@ -8,6 +8,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
@@ -72,6 +73,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -116,6 +118,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0088-merge-sorted-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
