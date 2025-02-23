@@ -9,6 +9,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +183,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0268-missing-number](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0556-next-greater-element-iii](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0556-next-greater-element-iii) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
