@@ -13,6 +13,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0160-intersection-of-two-linked-lists](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
