@@ -48,6 +48,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [2265-partition-array-according-to-given-pivot](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
 |  |
@@ -78,6 +79,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [0697-degree-of-an-array](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/0697-degree-of-an-array) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Divide and Conquer
 |  |
@@ -224,6 +226,7 @@ I created this repository to maintain my codes on leetcode. In this repo. I uplo
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2211-k-radius-subarray-averages) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/aman8387/Data-Structures-and-Algorithms/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Tree
 |  |
 | ------- |
